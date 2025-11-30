@@ -1,15 +1,5 @@
 # Ktor CRUD + JWT Authentication API
 
-REST API сервер на Ktor с полным CRUD и JWT аутентификацией.
-
-## Технологии
-
-- **Ktor** 2.3.7 - веб-фреймворк
-- **kotlinx.serialization** - JSON сериализация
-- **JWT** - аутентификация
-- **BCrypt** - хеширование паролей
-- **Gradle Kotlin DSL** - система сборки
-
 ## Запуск
 
 ```bash
